@@ -1,4 +1,4 @@
-![Dashboard Screenshot](images/Dashboard1.png)
+
 
 # Analyzing-correlation between-customer-churn-rate-and-charges-in-telecommunication-setting  (Excel Project)
 📊 This project analyzes customer churn behavior using the Kaggle Customer Churn Prediction 2020 dataset.  
