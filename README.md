@@ -1,4 +1,4 @@
-https://github.com/Shiwani26/Analyzing-correlationbetween-customer-churn-rate-and-charges-in-telecommunication-setting/blob/ad78c713b904dbd905629345aa9df48ee0d9131a/Dashboard1.pdf
+![image alt](https://github.com/Shiwani26/Analyzing-correlationbetween-customer-churn-rate-and-charges-in-telecommunication-setting/blob/ad78c713b904dbd905629345aa9df48ee0d9131a/Dashboard1.pdf)
 
 
 # Analyzing-correlation between-customer-churn-rate-and-charges-in-telecommunication-setting  (Excel Project)
