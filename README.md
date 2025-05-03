@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/Shiwani26/Analyzing-correlationbetween-customer-churn-rate-and-charges-in-telecommunication-setting/blob/90bd0b3d98d8953743bc36114e94e1af9fa6aab3/Dashboard2.png)
 
 
 # Analyzing-correlation between-customer-churn-rate-and-charges-in-telecommunication-setting  (Excel Project)
